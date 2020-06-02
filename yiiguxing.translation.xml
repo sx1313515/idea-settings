@@ -4,4 +4,7 @@
       <item value="after" />
     </histories>
   </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+  </component>
 </application>
